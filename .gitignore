@@ -1,0 +1,8 @@
+# Ignore environment secrets if you don't want them public
+# .env
+
+# System files and backups
+*.log
+*.sqlite
+*.db
+.DS_Store
